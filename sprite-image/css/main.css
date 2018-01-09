@@ -1,0 +1,13 @@
+.bb{
+	text-align: center;
+}
+.bb a {
+	background-image: url(../img/ddd.png);
+	display: block;
+	height: 1250px;
+	width: 1500px;
+
+}
+.bb a:hover {
+	background-position: 100% 50%;
+}
